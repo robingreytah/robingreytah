@@ -1,4 +1,4 @@
-## Hello fellow hackers, Robgin Greytah here :smiley_cat:!
+## Hello fellow hackers, Robin Greytah here :smiley_cat:!
 
 <!-- https://github.com/badges/shields.git -->
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCX1ZdYGUCpZP6smtyhra6bQ?style=social)
